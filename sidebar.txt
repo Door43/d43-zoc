@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zoc:home|Door43 (zoc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zoc|d43-zoc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zoc/archive/master.zip|d43-zoc.zip]]
+
+**Recent Changes**
+{{changes>ns = zoc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zoc|Ethnologue data]]
+
